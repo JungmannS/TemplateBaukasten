@@ -1,0 +1,8 @@
+Problem: Unbekanntes Problem
+├─ Konversationsdetails:
+│  ├─ [!] **** Hinweiselemente[
+
+1.@ [USER --> LLM]
+2.# Rolle LLM:
+3.-> Projektebene:
+]

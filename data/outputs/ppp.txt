@@ -1,0 +1,9 @@
+Problem: z
+├─ Verständnis
+│  ├─ [+] **** zzzz
+│  ├─ [+] **** rrrrr
+│  ├─ [+] **** eeeee
+├─ Hintergrund
+│  ├─ [+] **** rrrrr
+│  ├─ [+] **** ttttt
+│  ├─ [+] **** rrrrr

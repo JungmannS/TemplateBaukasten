@@ -1,0 +1,23 @@
+{
+  "problem": "Unbekanntes Problem",
+  "blocks": [
+    {
+      "ebene": "Hintergrund",
+      "text": "xdvxv",
+      "action": "+",
+      "priority": 1
+    },
+    {
+      "ebene": "Verst\u00e4ndnis",
+      "text": "xyvyxv",
+      "action": "+",
+      "priority": 5
+    },
+    {
+      "ebene": "Verst\u00e4ndnis",
+      "text": "hlh",
+      "action": "+",
+      "priority": 2
+    }
+  ]
+}

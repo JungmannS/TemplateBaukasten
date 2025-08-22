@@ -1,0 +1,3 @@
+Problem: Programmteile
+├─ Verständnis
+│  ├─ [+] * app.py:

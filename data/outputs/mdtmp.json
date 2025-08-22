@@ -1,0 +1,11 @@
+{
+  "problem": "Unbekanntes Problem",
+  "blocks": [
+    {
+      "ebene": "Konversationsdetails:",
+      "text": "Hinweiselemente[\n\n1.@ [USER --> LLM]\n2.# Rolle LLM:\n3.-> Projektebene:\n]",
+      "action": "!",
+      "priority": 4
+    }
+  ]
+}

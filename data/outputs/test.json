@@ -1,0 +1,11 @@
+{
+  "problem": "test",
+  "blocks": [
+    {
+      "ebene": "Verst\u00e4ndnis",
+      "text": "1",
+      "action": "+",
+      "priority": 1
+    }
+  ]
+}
