@@ -30,3 +30,15 @@ Thumbs.db
 
 # --- Projektordner (nur automatisch erzeugte Inhalte) ---
 data/outputs/*
+# --- Editor-/IDE-Dateien ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Betriebssystem ---
+.DS_Store
+Thumbs.db
+
+# --- Projektordner (nur automatisch erzeugte Inhalte) ---
+data/outputs/*
