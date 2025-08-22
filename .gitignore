@@ -1,3 +1,32 @@
+# --- Python ---
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.sqlite3
+
+# --- Virtuelle Umgebungen ---
+venv/
+.env/
+.venv/
+env/
+Include/
+Lib/
+Scripts/
+bin/
+pyvenv.cfg
+
+# --- Editor-/IDE-Dateien ---
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Betriebssystem ---
+.DS_Store
+Thumbs.db
+
+# --- Projektordner (nur automatisch erzeugte Inhalte) ---
+data/outputs/*
